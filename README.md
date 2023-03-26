@@ -2,6 +2,8 @@
 
 ![Design preview for the Advice generator app coding challenge](./design/desktop-preview.jpg)
 
+Greate app to learn how to deal with API and some effect like box-shadow etc. , junior-level .
+
 ## Welcome! 👋
 
 Thanks for checking out this front-end coding challenge.
